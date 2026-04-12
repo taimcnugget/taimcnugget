@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Tai! 👋🏾
 
-<!--
-**taimcnugget/taimcnugget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spent years at the bench making drug-loaded nanoparticles, optimizing extracellular vesicle (EV) production, and engineering B cell culture systems. At some point I realized the questions I was asking needed better computational tools to answer them. Now I build the pipelines. And because I've spent years at the bench, I actually know what the data is trying to say. I use genomics data to find molecular markers associated with disease.
 
-Here are some ideas to get you started:
+👩🏾‍💻 Currently working on a scRNA-seq analysis of B cell dynamics in primary and metastatic gastric cancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+```
+Languages:      R · Python · SQL (PostgreSQL) · Bash
+Bioinformatics: Seurat · Harmony · DESeq2
+ML & Analysis:  scikit-learn · pandas · ggplot2 · patchwork
+Databases:      UniProt · GEO · SRA · ExoCarta · Vesiclepedia
+Tools:          Git · Jupyter · FlowJo · GraphPad
+```
+
+
+### Lab Skills
+
+```
+Cell & Tissue:   primary cell culture · iPSC-derived systems · 3D ECM scaffolds
+EV Biology:      EV isolation & QC · TFF · ultracentrifugation · SEC
+Assays:          flow cytometry (multi-color) · qPCR · ELISA · Western blot
+Analytical:      LC-MS proteomics · RNA-seq · FlowJo · GraphPad
+```
+---
+
+### Background
+
+- 🎓 Ph.D., Biomedical Engineering
+- 🎓 B.S., Chemical Engineering, Pharmaceutical Track
+- 🏆 NSF Graduate Research Fellow (GRFP)
+- 🧫 Industry experience: Lyric Bio · Astellas · Rubius Therapeutics
+- 📍 Bay Area, CA
