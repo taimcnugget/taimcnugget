@@ -16,17 +16,6 @@ Databases:      UniProt · GEO · SRA · ExoCarta · Vesiclepedia
 Tools:          Git · Jupyter · FlowJo · GraphPad
 ```
 
-
-### Lab Skills
-
-```
-Cell & Tissue:   primary cell culture · iPSC-derived systems · 3D ECM scaffolds
-EV Biology:      EV isolation & QC · TFF · ultracentrifugation · SEC
-Assays:          flow cytometry (multi-color) · qPCR · ELISA · Western blot
-Analytical:      LC-MS proteomics · RNA-seq · FlowJo · GraphPad
-```
----
-
 ### Background
 
 - 🎓 Ph.D., Biomedical Engineering
