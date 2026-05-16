@@ -10,8 +10,9 @@ My background is in tissue engineering and experimental immunology, where I deve
 
 ```
 Languages:      R · Python · SQL (PostgreSQL) · bash ·
-Bioinformatics: Seurat · Harmony · DESeq2 · Slingshot · Tradeseq · Scanpy · Squidpy · cell2location · LIANA · CellChat · Salmon · gseapy · PyDESeq2
-                Salmon · gseapy · PyDESeq2
+Bioinformatics: Seurat · Harmony · DESeq2 · Slingshot · Tradeseq · Scanpy ·
+                Squidpy · cell2location · LIANA · CellChat · Salmon · gseapy ·
+                PyDESeq2 · Salmon · gseapy · PyDESeq2
 ML & Analysis:  scikit-learn · pandas · ggplot2 · patchwork · lifelines
 Databases:      UniProt · GEO · SRA · ExoCarta · Vesiclepedia · PRIDE · OpenTargets · ChEMBL · AMP RA Phase II
 Tools:          Git · Jupyter · FlowJo · GraphPad · Docker
