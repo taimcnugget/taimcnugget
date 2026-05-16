@@ -1,6 +1,6 @@
 ## Hi, I'm Tai! 👋🏾
 
-I'm a scientist that has spent years at the bench making drug-loaded nanoparticles, optimizing extracellular vesicle (EV) production, and engineering B cell culture systems. At some point I realized the questions I was asking needed better computational tools to answer them. Now I build the pipelines. And because I've spent years at the bench, I actually know what the data is trying to say. I use genomics data to find molecular markers associated with disease.
+My background is in tissue engineering and experimental immunology, where I developed tissue-targeting modalities and engineered B cell culture systems. That work pushed me toward computation becausse the biological systems I studied demanded more scalable and rigorous analytical tools. I now build computational pipelines for genomics analysis and biomarker discovery, focusing on the intersection of immune biology native and engineered tissues, and disease. Because I’ve worked extensively at the bench, I approach biological data with an experimental understanding of what signals are mechanistically meaningful.
 
 👩🏾‍💻 Finishing up a deep dive of B cells in gastric cancer progression >> transitioning into an autoimmunity and women's health multi-omics project (main Q: How do sex differences modulate stromal-immune crosstalk in rheumatoid arthritis patients and do these interactions inform patient stratification, treatment response, and drug target discovery?)
 
