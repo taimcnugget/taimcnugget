@@ -23,7 +23,7 @@ Tools:          Git · Jupyter · FlowJo · GraphPad · Docker
 ### Background
 
 - 🎓 Ph.D., Biomedical Engineering
-- 🎓 B.S., Chemical Engineering, Pharmaceutical Track
+- 🎓 B.S., Chemical Engineering, Pharmaceutical Track (minor: Cell & Molecular Biology)
 - 🏆 NSF Graduate Research Fellow (GRFP)
 - 🧫 Industry experience: Lyric Bio · Astellas · Rubius Therapeutics
 - 📍 Bay Area, CA
