@@ -4,7 +4,7 @@ My background is in tissue engineering and experimental immunology, where I deve
 
 👩🏾‍💻 Finishing up a deep dive of the role of B cells in gastric cancer progression.
 
-✨ Transitioning into an autoimmunity and women's health multi-omics project (main Q: How do sex differences modulate stromal-immune crosstalk in rheumatoid arthritis patients and do these interactions inform patient stratification, treatment response, and drug target discovery?)
+✨Transitioning into an autoimmunity and women's health multi-omics project (main Q: How do sex differences modulate stromal-immune crosstalk in rheumatoid arthritis patients and do these interactions inform patient stratification, treatment response, and drug target discovery?)
 ---
 
 ### Tech Stack
