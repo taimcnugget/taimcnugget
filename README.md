@@ -2,7 +2,7 @@
 
 My background is in tissue engineering and experimental immunology, My wet lab experiences pushed me toward computation because the biological systems I studied demanded more scalable and rigorous analytical tools. I now build computational pipelines for genomics analysis and biomarker discovery, focusing native and diseased immune biology at the molecular, cellular, and tissue scale. Because I’ve worked extensively at the bench, I approach biological data with an experimental understanding of what signals are mechanistically meaningful.
 
-👩🏾‍💻 Working on an immune multi-omics (scRNA-seq & spatial transcriptomics) analysis focusing on endometrial tissues, assessing senescent signatures in myeloid & lymphoid lineages and their spatial organization in healthy and pathologic endometrium. 
+👩🏾‍💻 JUst finished my project investigating senescent and dysfunctional signatures in myeloid & lymphoid lineages using a multi-omics approach (scRNA-seq & spatial transcriptomics). 
 
 ---
 
