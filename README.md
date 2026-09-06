@@ -1,21 +1,11 @@
-## Hi, I'm Tai! 👋🏾
+## Hi, I’m Tailynn 👋🏾
 
-My background is in tissue engineering and experimental immunology, My wet lab experiences pushed me toward computation because the biological systems I studied demanded more scalable and rigorous analytical tools. I now build computational pipelines for genomics analysis and biomarker discovery, focusing native and diseased immune biology at the molecular, cellular, and tissue scale. Because I’ve worked extensively at the bench, I approach biological data with an experimental understanding of what signals are mechanistically meaningful.
+I’m a biomedical engineer and computational biologist interested in how immune dysfunction shapes disease across scales—from molecular signals and cell states to tissues and clinical outcomes.
 
-👩🏾‍💻 JUst finished my project investigating senescent and dysfunctional signatures in myeloid & lymphoid lineages using a multi-omics approach (scRNA-seq & spatial transcriptomics). 
+My work sits at the intersection of experimental immunology, single-cell and spatial transcriptomics, and systems biology. I use computational analysis to ask biologically grounded questions, then translate the results into clearer mechanistic stories.
 
----
+Most recently, I built a multi-omic approach to investigate senescent and dysfunctional immune states across myeloid and lymphoid lineages using scRNA-seq and spatial transcriptomics.
 
-### Tech Stack
-
-```
-Languages:      Python · R · SQL (PostgreSQL) · bash
-Bioinformatics: Scanpy · AnnData · Squidpy · cell2location · LIANA+ · CellChat ·
-                CellTypist · scrublet · Seurat · Harmony · harmonypy · DESeq2 ·
-                PyDESeq2 · Slingshot · Tradeseq
-ML & Analysis:  scikit-learn · pandas · ggplot2 · patchwork · lifelines
-Databases:      UniProt · GEO · SRA · ExoCarta · Vesiclepedia
-Tools:          Git · Snakemake · Jupyter · Docker · FlowJo · GraphPad
 ```
 
 ### Background
