@@ -4,8 +4,7 @@ I’m a biomedical engineer and computational biologist interested in how immune
 
 My work sits at the intersection of experimental immunology, single-cell and spatial transcriptomics, and systems biology. I use computational analysis to ask biologically grounded questions, then translate the results into clearer mechanistic stories.
 
-Most recently, I built a multi-omic approach to investigate senescent and dysfunctional immune states across myeloid and lymphoid lineages using scRNA-seq and spatial transcriptomics.
-
+I’m currently building a mechanistic model of inflammation to explore how inflammatory signaling, tissue damage, and resolution interact over time and the conditions that can lead to persistent low-grade inflammation.
 ```
 
 ### Background
