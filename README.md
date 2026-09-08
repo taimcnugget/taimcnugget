@@ -1,6 +1,6 @@
 ## Hi, I’m Tailynn 👋🏾
 
-I’m a biomedical engineer and computational biologist interested in how immune dysfunction shapes disease across scales—from molecular signals and cell states to tissues and clinical outcomes.
+I’m a biomedical engineer and computational biologist interested in how immune dysfunction shapes disease across scales, from molecular signaling and cell states to tissues and clinical outcomes.
 
 My work sits at the intersection of experimental immunology, single-cell and spatial transcriptomics, and systems biology. I use computational analysis to ask biologically grounded questions, then translate the results into clearer mechanistic stories.
 
